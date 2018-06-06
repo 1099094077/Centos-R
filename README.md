@@ -1,5 +1,5 @@
 # Centos-R
-提供R语言的Centos离线安装包及依赖
+提供R语言的Centos离线安装包及依赖</br>
 说明：</br>
 1、R-core跟R-core-devel及其所有依赖通过epel源下载</br>
 2、目前只有基于Centos7的64位R安装包，版本号为3.4.4，以后会</br>
